@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
+  ![logo](https://user-images.githubusercontent.com/50602816/74002716-c59e8b00-494e-11ea-8fb0-d77492eca60e.png)
 </h1>
 
 <h3 align="center">
